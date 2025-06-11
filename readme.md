@@ -1,5 +1,7 @@
 # Custom Logging for Unity
 
+!(window.gif)
+
 Este repositório contém um sistema de logging personalizado para Unity, projetado para oferecer mais controle e uma visualização mais clara dos logs diretamente no editor. Ele substitui o console padrão do Unity por uma janela customizada, com recursos de filtragem e uma apresentação mais organizada.
 
 O sistema utiliza o **Sirenix Odin Inspector** para criar uma interface de usuário limpa e funcional.
